@@ -28,7 +28,7 @@ library(stringr)
 
 
 
-raw_data <- read_csv("/Users/shrichandbhuria/Downloads/All Modules/Sem_2/ML_Practice/CW/LUBS5990M_courseworkData_2324.csv")
+raw_data <- read_csv("LUBS5990M_courseworkData_2324.csv")
 
 raw_data1 <- raw_data
 # check the first six 
